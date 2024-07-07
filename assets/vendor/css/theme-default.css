@@ -633,7 +633,7 @@ a:hover {
 }
 
 .layout-navbar {
-  background-color: rgba(255, 255, 255, 0.95) !important;
+  background-color: rgba(0, 0, 0, 0.95) !important;
   -webkit-backdrop-filter: saturate(200%) blur(6px);
           backdrop-filter: saturate(200%) blur(6px);
 }
