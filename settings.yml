@@ -4,7 +4,7 @@ version: 1.0
 website:
   port: 3000
   secret: makethishard
-  logo: logo url or path here
+  logo: https://i.ibb.co/C5ybhbT/favicon3.png
 
 gift:
   enabled: true
