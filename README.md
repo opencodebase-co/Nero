@@ -10,7 +10,7 @@
 
 <br/><br/><br/>
 
-## :star: What Features ?
+## :star: What Features ? </a>
 <br/>
 - Resource Management (gift, use it to create servers, edit servers)
 - Coins (Join for Rewards, Buy Coins)
