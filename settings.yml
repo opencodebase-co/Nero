@@ -1,16 +1,16 @@
-name: NorthClient
+name: Nero
 defaulttheme: default
-version: 1.5.0
+version: 1.0
 website:
-  port: 25565
-  secret: Example Secret
+  port: 3000
+  secret: makethishard
 
 gift:
   enabled: true
 
 discordserver:
   enabled: true
-  invitelink: https://discord.com/example
+  invitelink: 
 
 ads:
   enabled: false
@@ -22,8 +22,8 @@ guildblacklist:
   - ServerID
 
 pterodactyl:
-  domain: https://panel.performance.wtf
-  key: ptla_HZKwX37rUQJFLQaXRc2Rbi6Xut2fp6Nuxmrp8HdkkAJ
+  domain: https://panel.example.com
+  key: ptla_key
 
 AFK Party: 
   enabled: false
@@ -33,13 +33,13 @@ AFK Party:
 
 changelog:
   first:
-    header: Projekt Start
-    text: The project has started on 20.07.2022 at 21:00.
-    sent: sent 20.07.2022
+    header: Example
+    text: Lorem Ipsum is a dummy text
+    sent: sent 20.07.2028
   second:
-    header: New Design
-    text: We went right to work on a new design.
-    sent: sent 20.07.2022
+    header: Example
+    text: Lorem Ipsum is a dummy text
+    sent: sent 20.07.2026
 
 linkvertise:
   enabled: true
