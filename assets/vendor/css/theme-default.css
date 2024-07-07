@@ -774,7 +774,7 @@ html:not(.layout-menu-collapsed) .bg-menu-theme .menu-inner .menu-item .menu-lin
 }
 
 .bg-footer-theme {
-  background-color: #f5f5f9 !important;
+  background-color: #000000 !important;
   color: #697a8d;
 }
 .bg-footer-theme .footer-link {
