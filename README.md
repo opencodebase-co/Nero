@@ -11,7 +11,6 @@
 <br/><br/><br/>
 
 ## :star: What Features ? 
-
 <br/><br/><br/>
 - Resource Management (gift, use it to create servers, edit servers)
 - Coins (Join for Rewards, Buy Coins)
