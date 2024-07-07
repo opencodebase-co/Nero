@@ -327,11 +327,11 @@
                                                 <div class="col-md-12 grid-margin stretch-card">
                                                     <div class="card">
                                                         <div class="card-header">
-                                                            <div class="card-title">NorthDevelopment
+                                                            <div class="card-title">Nero Client Dashboard
                                                                 <center> <a
-                                                                        href="https://github.com/NorthDevelopment/NorthClient"
+                                                                        href="https://github.com/v182/Nero"
                                                                         target="_blank"><i class="fab fa-github"
-                                                                            href="https://github.com/NorthDevelopment/NorthClient"></i>GITHUB</a>
+                                                                            href="https://github.com/v182/Nero"></i>GITHUB</a>
                                                             </div>
                                                         </div>
                                                         <div class="card-body">
@@ -346,15 +346,15 @@
                                             </div>
                                             <script>
                                                 fetch(
-                                                        "https://raw.githubusercontent.com/NorthDevelopment/NorthClient/main/assets/lv.json")
+                                                        "https://raw.githubusercontent.com/v182/Nero/main/assets/lv.json")
                                                     .then(res => Promise.resolve(res.json()).then(lv => {
                                                         let version = "<%= settings.version %>"
                                                         if (version == lv.version) {
                                                             document.getElementById("latestversion").innerHTML =
-                                                                `<span>You are running NorthClient version <code style="color: #007fcc" >v${version}</code>. NorthClient is up-to-date!</span>`;
+                                                                `<span>You are running Nero version <code style="color: #007fcc" >v${version}</code>. Nero is up-to-date!</span>`;
                                                         } else {
                                                             document.getElementById("latestversion").innerHTML =
-                                                                `<span>NorthClient is <b>not up-to-date!</b> The latest version is <code style="color: #007fcc" >v${lv.version}</code> and you are currently running version <code style="color: #007fcc" >v<%= settings.version %></code>.</span>`;
+                                                                `<span>Nero is <b>not up-to-date!</b> The latest version is <code style="color: #007fcc" >v${lv.version}</code> and you are currently running version <code style="color: #007fcc" >v<%= settings.version %></code>.</span>`;
                                                         }
                                                     }));
                                             </script>
