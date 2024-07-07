@@ -10,4 +10,4 @@
 
 
 ## Reporting a Vulnerability
-Create a Issue or join our (Discord)[https://discord.gg/Ku7chqmbCS]
+Create a Issue or join our [Discord](https://discord.gg/Ku7chqmbCS)
