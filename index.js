@@ -73,14 +73,12 @@ app.use(express.json({
 }));
 
 console.log(chalk.blue("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"));
-console.log(chalk.cyan(figlet.textSync("NorthClient")));
-console.log(chalk.blue("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"));
-console.log(chalk.cyan("[NorthClient] Copyright 2022 ©️ NorthDevelopment"));
-console.log(chalk.cyan("[Github] https://github.com/NorthDevelopment/NorthClient"));
-console.log(chalk.cyan("[Discord] https://discord.gg/c2V7NKKWCT"));
+console.log(chalk.white(figlet.textSync("Nero")));
+console.log(chalk.white("[Github] https://github.com/v182/Nero"));
+console.log(chalk.white("[Discord] https://discord.gg/Ku7chqmbCS"));
 console.log(chalk.blue("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"));
 app.listen(settings.website.port, (err) => {
-  console.log(chalk.cyan(`[NorthClient] Loaded Dashboard on the port ${settings.website.port}`));
+  console.log(chalk.white(`[Nero] Dashboard is up on the port ${settings.website.port}`));
   console.log(chalk.blue("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"));
   if (err) console.log(chalk.red(err));
 });
