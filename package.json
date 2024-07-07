@@ -1,8 +1,8 @@
 {
-  "name": "NorthClient",
+  "name": "Nero",
   "version": "1.5.0",
   "main": "index.js",
-  "author": "NorthDevelopment",
+  "author": "v182",
   "dependencies": {
     "axios": "^0.25.0",
     "better-sqlite3": "^11.1.2",
