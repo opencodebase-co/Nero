@@ -6,11 +6,11 @@
 
 
 
-<p align="center"><a href="https://github.com/NorthDevelopment/NorthClient"></a><a href="#nastyox"><img src="http://randojs.com/images/dropShadow.png" width="75%"/></a></p><br/>
+<p align="center"><a href="https://github.com/v182/nero"></a><a href="#nastyox"><img src="http://randojs.com/images/dropShadow.png" width="75%"/></a></p><br/>
 
 <br/><br/><br/>
 
-## :star: What Features ? 
+## :star: Features
 <br/><br/><br/>
 - Resource Management (gift, use it to create servers, edit servers)
 - Coins (Join for Rewards, Buy Coins)
@@ -31,74 +31,8 @@
 - Role Packages (get packages via roles)
 <br/><br/><br/>
 
-## :zap:  Fast implementation  
-  Use pm2:<br/>
-  ```JavaScript
-//Step 01:
-Install pm2. (If you don't know how then look below.)
+## :zap: Documentation
+[Click here]()
 
-//Step 02:
-Drop the files into your server and edit settings.yml. 
-Then go into the directory with >>$ cd /yourlocation<< then start the index.js with 
->>$ pm2 start index.js.<< 
-```
-___
-Or, use Pterodactyl Panel:
-```JavaScript
-//Step 01:
-Install The egg discord.js generic and create a server with this egg
-
-//Step 02:
-Drop the Files in ur Server and Edit the settings.yml
-
-//Note: If u need Help just feel free to join the Discord or Report the Issue on GitHub.
-``` 
-  
-<br/><br/><br/>
-## :tada:  How to install pm2:
-
-**Step 01:**
-<BR/>This is for (Debian/Ubuntu)
-  ```JavaScript
----------- Install Node.js v18.x ---------- 
-$ curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-$ sudo apt-get install -y nodejs
-
----------- Install Node.js v12.x ----------
-$ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
-$ sudo apt-get install -y nodejs
-  ```
-___
-This is for (CentOS/RHEL and Fedora)
-  ```JavaScript
----------- Install Node.js v18.x ---------- 
-$ curl -sL https://rpm.nodesource.com/setup_18.x | bash -
-
----------- Install Node.js v12.x ----------
-$ curl -sL https://rpm.nodesource.com/setup_12.x | bash -
-  ```
-
-**Step 02**
-  ```JavaScript
----------- Install PM2 ---------- 
-$ sudo npm i -g pm2
-  ```
-
-  
-**&#8674; Example Start pm2**  
-  ```JavaScript
-$ sudo pm2 start /var/www/html/app/server.js -i 4 
-$ sudo pm2 save  (#save current process list on reboot)
-
-//Node\\
-Hot to Update:
-$ sudo pm2 update	      #update PM2 package
-
-More Commands: 
-$ sudo pm2 logs 1	        #view logs for app 1
-$ sudo pm2 stop 0           #stop process with ID 0
-$ sudo pm2 restart all      #restart all apps
-  ```
-<br/><br/><br/>
-
-
+## Preview
+soon
