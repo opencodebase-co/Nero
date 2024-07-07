@@ -11,7 +11,6 @@
 <br/><br/><br/>
 
 ## :star: What Features ?
-All features of<a href="https://github.com/NorthDevelopment/NorthClient" target="_blank"> NorthClient:</a>
 <br/>
 - Resource Management (gift, use it to create servers, edit servers)
 - Coins (Join for Rewards, Buy Coins)
