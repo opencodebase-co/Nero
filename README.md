@@ -1,20 +1,13 @@
 <p align="center"><a href="https://github.com/NorthDevelopment/NorthClient"><img src="https://media.discordapp.net/attachments/984837636457918465/1000014634012647464/giphy.gif" alt="Gray shape shifter" height="120"/></a></p>
-<h1 align="center">NorthClient</h1>
-<p align="center">The world's easiest, most powerful Pterodactyl Client Panel.</p>
+<h1 align="center">Nero</h1>
+<p align="center">Modern & up to date Pterodactyl Client Dashboard</p>
 
-<p align="center">
-<a  href="https://github.com/NorthDevelopment/NorthClient/releases"><img src="https://img.shields.io/github/v/release/NorthDevelopment/NorthClient" height="20"/></a>
-<a href="https://github.com/NorthDevelopment/NorthClient/actions"><img src="https://github.com/discordjs/discord.js/actions/workflows/test.yml/badge.svg" alt="Tests status" />
-<a href="https://github.com/NorthDevelopment/NorthClient/actions"><img src="https://img.shields.io/discord/984837635879104602?label=Discord" alt="Tests status" />
-<a  href="https://demo.northdevelopment.ga"><img src="https://img.shields.io/github/v/tag/NorthDevelopment/NorthClient?label=Demo%20Version" height="20"/>
-<a  href="https://github.com/NorthDevelopment/NorthClient/stargazers"><img src="https://img.shields.io/github/stars/NorthDevelopment/NorthClient?label=%E2%AD%90" height="20"/></a>
+
 
 
 
 <p align="center"><a href="https://github.com/NorthDevelopment/NorthClient"></a><a href="#nastyox"><img src="http://randojs.com/images/dropShadow.png" width="75%"/></a></p><br/>
 
-## :hear_no_evil:  What's the NorthClient?  
-<a href="https://github.com/NorthDevelopment/NorthClient" target="_blank">NorthClient</a> is The best Pterodactyl Control Panel Making a free or paid host and need a way for users to sign up, earn coins, manage servers? Try out NorthClient. To get started, scroll down and follow the guide
 <br/><br/><br/>
 
 ## :star: What Features ?
@@ -108,25 +101,5 @@ $ sudo pm2 stop 0           #stop process with ID 0
 $ sudo pm2 restart all      #restart all apps
   ```
 <br/><br/><br/>
-## :eyes:  Preview
-![unknown](https://media.discordapp.net/attachments/984837636457918466/1003336465725526047/unknown.png?width=1329&height=670)
-![unknown](https://media.discordapp.net/attachments/984837636457918466/1003336558977490944/unknown.png?width=1333&height=670)
-![unknown](https://user-images.githubusercontent.com/71934318/180893825-36222dd0-0f8c-47ed-a36e-19938eb2a6e4.png)
 
-<br/><br/><br/>
-## :warning:  Warning/Copyright
-We cannot force you to keep the "made with ❤️ by Jonas.#9915" in the footer, but please consider keeping it. It helps getting more visibility to the project and so getting better. We won't do technical support for installations without the notice in the footer. And the version check in the Admin area.
 
-<br/><br/><br/>
-## :clap:  Supporte
-Check out our [demo](https://demo.northdevelopment.ga)<br/>
-Check out our [Discord Support](https://discord.gg/c2V7NKKWCT)<br/>
-<br/><br/><br/>
-## :heart:  Supporters
-<kbd><img src="https://avatars.githubusercontent.com/u/41525308?v=4" href="https://github.com/SirHaxe" height="64" width="64" alt="SirHaxe PNG not Loaded" border="1px" align="center"></kbd>
-<kbd><img src="https://avatars.githubusercontent.com/u/109818191?v=4" href="https://github.com/SirHaxe" height="64" width="64" alt="SirHaxe PNG not Loaded" border="1px" align="center"></kbd>
-<kbd><img src="https://avatars.githubusercontent.com/u/25795235?v=4" href="https://github.com/SirHaxe" height="64" width="64" alt="SirHaxe PNG not Loaded" border="1px" align="center"></kbd>
-<kbd><img src="https://avatars.githubusercontent.com/u/91793263?v=4" href="https://github.com/SirHaxe" height="64" width="64" alt="SirHaxe PNG not Loaded" border="1px" align="center"></kbd>
-<p align="center"><a href="https://github.com/NorthDevelopment/NorthClient"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
-<br/>
-<p align="center"><a href="https://github.com/NorthDevelopment/NorthClient#"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
