@@ -1,9 +1,6 @@
 <h1 align="center">Nero</h1>
 <p align="center">Modern & up to date Pterodactyl Client Dashboard</p>
 
-
-<p align="center"><a href="https://github.com/v182/nero"></a><a href="#nastyox"><img src="http://randojs.com/images/dropShadow.png" width="75%"/></a></p><br/>
-
 <br/><br/><br/>
 
 ## :star: Features
