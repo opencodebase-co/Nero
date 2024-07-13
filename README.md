@@ -1,12 +1,5 @@
-<p align="center"><a href="https://github.com/v182/nero"><img src="https://media.discordapp.net/attachments/984837636457918465/1000014634012647464/giphy.gif" alt="Gray shape shifter" height="120"/></a></p>
 <h1 align="center">Nero</h1>
 <p align="center">Modern & up to date Pterodactyl Client Dashboard</p>
-
-
-
-
-
-<p align="center"><a href="https://github.com/v182/nero"></a><a href="#nastyox"><img src="http://randojs.com/images/dropShadow.png" width="75%"/></a></p><br/>
 
 <br/><br/><br/>
 
@@ -34,9 +27,12 @@
 ## :zap: Documentation
 [Click here](https://nero-docs.pages.dev/)
 
-## Demo
-[Click here](https://nero-demo.pages.dev)
-
 ## Preview
 <img width="2031" alt="Preview1" src="https://github.com/v182/Nero/assets/142740981/2155152d-6d39-4c46-8154-a786fb80a6e8">
 <img width="2031" alt="Preview2" src="https://github.com/v182/Nero/assets/142740981/cba3cd89-63e6-4915-b65b-16ee117ebb0d">
+
+## Support
+Open a Issue or join our [Discord](https://discord.gg/Ku7chqmbCS)
+
+## Note
+Be aware that Nero is a reworked & updated version of the Client known as [NorthClient](https://github.com/northdevelopment/northclient)
