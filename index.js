@@ -73,7 +73,7 @@ app.use(express.json({
 }));
 
 console.log(chalk.blue("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"));
-console.log(chalk.white(figlet.textSync("Nero")));
+console.log(chalk.white(figlet.textSync("Nero v1.5.x")));
 console.log(chalk.white("[Github] https://github.com/v182/Nero"));
 console.log(chalk.white("[Discord] https://discord.gg/Ku7chqmbCS"));
 console.log(chalk.blue("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"));
