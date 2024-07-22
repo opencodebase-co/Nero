@@ -1,0 +1,19 @@
+
+# OAuth
+DISCORD_CLIENT_ID="1160639547437219900"
+DISCORD_CLIENT_SECRET="Ve9tCSM_1Iz_G95-x4uOEcy4EHU_lK2U"
+
+# The url of the dashboard (Production)
+APP_URL="http://localhost:3000"
+
+# The absolute url of the api endpoint of your application (Production) - docs soon
+NEXT_PUBLIC_API_ENDPOINT="http://localhost:8080"
+
+PTERODACTYL_DOMAIN=https://panel.example.com/
+PTERODACTYL_API_KEY=ptla_
+
+# Nodes
+NODE_1=1 # ID of the Node in Pterodaczyl
+NODE_2=2
+# ... etc.
+
